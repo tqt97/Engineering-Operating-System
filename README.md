@@ -1,4 +1,3 @@
-
 # Hệ thống quy tắc vận hành kỹ thuật của team
 
 Đây không phải:
@@ -8,6 +7,9 @@
 - **Nơi giải thích lý thuyết.**
 
 Đây là **quy tắc để team làm việc với nhau theo 1 chuẩn chung và hiệu quả hơn**.
+
+![Sơ đồ tư duy](assets/mind-map.png)
+![Quy trình vận hành kỹ thuật](assets/process.png)
 
 ---
 
