@@ -90,6 +90,7 @@ Nó không phải tài liệu tham khảo tĩnh, mà là:
 ## V. Tác giả
 
 **Tác giả:** **TuanTQ**
+
 **Email:** <t_quoctuan@thk-hd.vn>
 
 > *Mọi phản hồi, tranh luận và đóng góp từ team đều được khuyến khích nhằm đảm bảo hệ thống luôn cải tiến, nâng cấp và phản ánh đúng thực tế vận hành.*
