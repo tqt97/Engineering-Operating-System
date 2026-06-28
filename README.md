@@ -39,20 +39,21 @@ Think → Define → Build → Run
 
 ## II. Cấu trúc thư mục
 
-📦Technical-Operating-Rules
- ┣ 📂01-Core-Mindset  *// Quy định cách kỹ sư suy nghĩ*
- ┃ ┗ 📜[Team-Principles.md](01-Core-Mindset/Team-Principles.md)
- ┃ ┣ 📜[Engineering-Mindset.md](01-Core-Mindset/Engineering-Mindset.md)
- ┃ ┣ 📜[Decision-Making.md](01-Core-Mindset/Decision-Making.md)
- ┣ 📂02-Requirements *// Quy định cách làm rõ vấn đề trước khi code*
- ┃ ┗ 📜[Requirement-Engineering.md](02-Requirements/Requirement-Engineering.md)
- ┣ 📂03-Development-Flow *// Quy trình build & review hệ thống*
- ┃ ┗ 📜[Software-Development-Lifecycle.md](03-Development-Flow/Software-Development-Lifecycle.md)
- ┃ ┣ 📜[Git-Workflow.md](03-Development-Flow/Git-Workflow.md)
- ┃ ┣ 📜[Code-Review.md](03-Development-Flow/Code-Review.md)
- ┣ 📂04-Production *// Quy tắc vận hành hệ thống*
- ┃ ┗ 📜[Production-Rules.md](04-Production/Production-Rules.md)
- ┗ 📜[README.md](README.md)
+- 01-Core-Mindset  *// Quy định cách kỹ sư suy nghĩ*
+  - [Team-Principles.md](01-Core-Mindset/Team-Principles.md)
+  - [Engineering-Mindset.md](01-Core-Mindset/Engineering-Mindset.md)
+  - [Decision-Making.md](01-Core-Mindset/Decision-Making.md)
+
+- 02-Requirements *// Quy định cách làm rõ vấn đề trước khi code*
+  - [Requirement-Engineering.md](02-Requirements/Requirement-Engineering.md)
+
+- 03-Development-Flow  *// Quy trình build & review hệ thống*
+  - [Software-Development-Lifecycle.md](03-Development-Flow/Software-Development-Lifecycle.md)
+  - [Git-Workflow.md](03-Development-Flow/Git-Workflow.md)
+  - [Code-Review.md](03-Development-Flow/Code-Review.md)
+
+- 04-Production  *// Quy tắc vận hành hệ thống*
+  - [Production-Rules.md](04-Production/Production-Rules.md)
 
 ---
 
